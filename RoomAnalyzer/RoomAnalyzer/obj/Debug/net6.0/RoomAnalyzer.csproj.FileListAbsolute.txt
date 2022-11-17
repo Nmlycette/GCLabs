@@ -1,0 +1,15 @@
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\RoomAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\RoomAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\RoomAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\RoomAnalyzer.AssemblyInfo.cs
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\RoomAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\bin\Debug\net6.0\RoomAnalyzer.exe
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\bin\Debug\net6.0\RoomAnalyzer.deps.json
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\bin\Debug\net6.0\RoomAnalyzer.runtimeconfig.json
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\bin\Debug\net6.0\RoomAnalyzer.dll
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\bin\Debug\net6.0\RoomAnalyzer.pdb
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\RoomAnalyzer.dll
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\refint\RoomAnalyzer.dll
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\RoomAnalyzer.pdb
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\RoomAnalyzer.genruntimeconfig.cache
+C:\Users\Nina\Documents\Git\RoomAnalyzer\RoomAnalyzer\obj\Debug\net6.0\ref\RoomAnalyzer.dll
