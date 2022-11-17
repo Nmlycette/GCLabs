@@ -1,0 +1,15 @@
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\BasicLoops.csproj.AssemblyReference.cache
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\BasicLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\BasicLoops.AssemblyInfoInputs.cache
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\BasicLoops.AssemblyInfo.cs
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\BasicLoops.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\bin\Debug\net6.0\BasicLoops.exe
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\bin\Debug\net6.0\BasicLoops.deps.json
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\bin\Debug\net6.0\BasicLoops.runtimeconfig.json
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\bin\Debug\net6.0\BasicLoops.dll
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\bin\Debug\net6.0\BasicLoops.pdb
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\BasicLoops.dll
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\refint\BasicLoops.dll
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\BasicLoops.pdb
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\BasicLoops.genruntimeconfig.cache
+C:\Users\Nina\Documents\Git\BasicLoops\BasicLoops\obj\Debug\net6.0\ref\BasicLoops.dll

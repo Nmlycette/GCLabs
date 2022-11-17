@@ -1,0 +1,15 @@
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\bin\Debug\net6.0\KeyCodeDoWhile.exe
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\bin\Debug\net6.0\KeyCodeDoWhile.deps.json
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\bin\Debug\net6.0\KeyCodeDoWhile.runtimeconfig.json
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\bin\Debug\net6.0\KeyCodeDoWhile.dll
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\bin\Debug\net6.0\KeyCodeDoWhile.pdb
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\KeyCodeDoWhile.csproj.AssemblyReference.cache
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\KeyCodeDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\KeyCodeDoWhile.AssemblyInfoInputs.cache
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\KeyCodeDoWhile.AssemblyInfo.cs
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\KeyCodeDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\KeyCodeDoWhile.dll
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\refint\KeyCodeDoWhile.dll
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\KeyCodeDoWhile.pdb
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\KeyCodeDoWhile.genruntimeconfig.cache
+C:\Users\Nina\Documents\Git\BasicLoops\KeyCodeDoWhile\obj\Debug\net6.0\ref\KeyCodeDoWhile.dll

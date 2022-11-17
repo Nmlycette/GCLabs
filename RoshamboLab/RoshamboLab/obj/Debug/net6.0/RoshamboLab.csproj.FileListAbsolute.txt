@@ -1,0 +1,15 @@
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\RoshamboLab.csproj.AssemblyReference.cache
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\RoshamboLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\RoshamboLab.AssemblyInfoInputs.cache
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\RoshamboLab.AssemblyInfo.cs
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\RoshamboLab.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\bin\Debug\net6.0\RoshamboLab.exe
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\bin\Debug\net6.0\RoshamboLab.deps.json
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\bin\Debug\net6.0\RoshamboLab.runtimeconfig.json
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\bin\Debug\net6.0\RoshamboLab.dll
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\bin\Debug\net6.0\RoshamboLab.pdb
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\RoshamboLab.dll
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\refint\RoshamboLab.dll
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\RoshamboLab.pdb
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\RoshamboLab.genruntimeconfig.cache
+C:\Users\Nina\Documents\Git\RoshamboLab\RoshamboLab\obj\Debug\net6.0\ref\RoshamboLab.dll
