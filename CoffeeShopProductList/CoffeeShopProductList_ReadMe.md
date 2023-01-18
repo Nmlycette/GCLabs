@@ -1,4 +1,4 @@
-**COFFEE SHOP PRODUCT LIST**  
+# COFFEE SHOP PRODUCT LIST
 Objectives: Databases and MVC
 
 **Task:** In your MVC CoffeeShop, create a Product Index view which draws a list of products from a SQL database. 
