@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using CoffeeShopProductList.Models;
 
 namespace CoffeeShopProductList.Controllers
 {
@@ -26,6 +27,7 @@ namespace CoffeeShopProductList.Controllers
         // GET: ProductController/Details/5
         public ActionResult Details(int id)
         {
+            ProductViewModel product = repo.GetMockProducts.FirstOrDefault(x => x.id == id);
             return View();
         }
 
