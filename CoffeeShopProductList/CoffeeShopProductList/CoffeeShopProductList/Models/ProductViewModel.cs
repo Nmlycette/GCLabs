@@ -16,7 +16,7 @@ namespace CoffeeShopProductList.Models
         public string? description { get; set; }
         
         [DisplayName("Price")]
-        public double price { get; set; }
+        public decimal price { get; set; }
 
         [DisplayName("Category")]
         public string? category { get; set; }
