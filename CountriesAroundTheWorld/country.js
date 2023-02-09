@@ -36,12 +36,12 @@ function SwitchCountry()
         country = france;
         DisplayColors(france);
     }
-    else if(input === "Brazil")
+    else if (input === "Brazil")
     {
         country = brazil;
         DisplayColors(brazil);
     }
-    else if(input === "Italy")
+    else if (input === "Italy")
     {
         country = italy;
         DisplayColors(italy);
@@ -50,7 +50,6 @@ function SwitchCountry()
 
 function DisplayColors(Country) 
 {
-
     let color1 = document.getElementById("Color1");
     color1.style.backgroundColor = Country.colors[0];
 
