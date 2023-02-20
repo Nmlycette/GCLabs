@@ -2,15 +2,14 @@
   <h1>{{title}}</h1>
   <ul>
     <li *ngFor="let todo of todoList">
-      <span [ngClass]="{'completed': todo.completed}">{{todo.task}}</span> <br>
-      <button *ngIf="!todo.completed" (click)="completeTask(todo)">Complete</button>
+      <span [ngClass]="{'completed': todo.completed}">{{todo.task}}</span>
+      <button *ngIf="!todo.completed" (click)="completeTask(todo)">Mark as Complete</button>
     </li>
   </ul>
 
   <br> 
-  <h1>{{title}}</h1>
   <form (ngSubmit)="addTask()">
-    <input id="new-task" name="newTask" type="text" [(ngModel)]="newTask" placeholder="Enter New Task">
+    <input id="new-task" name="newTask" type="text" [(ngModel)]="newTask" placeholder="Add another task">
     <button type="submit">Add Task</button>
   </form>
 </body>
