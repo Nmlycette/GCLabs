@@ -1,13 +1,14 @@
-# ANGULAR TODO
+# ANGULAR TO-DO
+
 ## Objective
 Angular Components, For Loops
 
 ## Task
 Create an Angular application that displays to-dos and allows the user to add new ones.
 
-## Build Specifications
+## Build Specifications:
 - Must include a Todo Interface, which consists of a “task” (string) and a “completed” (boolean).
-- The component must add an array of sample todo objects to the view. 
+- The component must add an array of sample todo objects to the view.
     - Each todo object should match the Todo interface. 
     - Include a mix of complete and incomplete items. (Pre-populate the array in the typescript)
 - The ngFor directive must be used. 
@@ -17,7 +18,26 @@ Create an Angular application that displays to-dos and allows the user to add ne
 - The text input at the top is for an extended challenge.
 - CSS styling is optional for this lab. See style guide below.
 
-## AngularToDo
+## Extended Challenges
+- Display a congratulations message if the list is empty or all items are complete.
+- Allow the user to remove items from the list, by clicking the “x”. (Clicking the “x” on an item executes a function named removeTask that removes that item from the array.
+- Add strikethrough styling to completed items.
+- Allow the user to filter the list by typing in the top input. (Only items which include the text typed will be shown.)
+- Allow the user to edit a to-do.
+
+## Style guide:
+- Font-family: Open Sans; 
+- Font-weight: 300; 
+- Body background: linear-gradient(to right, #f857a6, #ff5858) 
+- Icons: Font Awesome or Material Icons 
+- Box-shadow: box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75); 
+- Colors: 
+    - #bbb 
+    - #eee 
+    - #ff0000
+    - #ff69b4 
+    - #ff1493
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
 ## Development server

@@ -1,1 +1,53 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background: linear-gradient(to right, #f857a6, #ff5858);
+}
+
+h1 {
+    color: black;
+    font-family: Open Sans;
+    font-size: 200%;
+}
+
+h2 {
+    color: black;
+    font-family: Open Sans;
+    font-size: 100%;
+}
+
+button {
+    background: #eee;
+    font-family: Open Sans;
+    font-weight: 300;
+    border: 2px;
+    color: #ff69b4;
+    border-style: solid;
+    border-color: #ff69b4;
+    border-radius: 3px;
+}
+
+div {
+    background-color: #eee;
+    font-family: Open San;
+}
+
+p {
+    background-color: #eee;
+}
+
+form {
+    background-color: #eee;
+    margin: auto;
+    width: 100%;
+}
+
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 1px;
+}
+
+input {
+    margin: auto;
+    width: 100%;
+    padding: 1px;
+}
